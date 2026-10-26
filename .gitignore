@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.key
+.idea/
+.vscode/
+.ipynb_checkpoints/
+# 数据文件不进仓库（用少量样例代替）
+data/raw/
+*.csv
+*.zip
+*.rar
+*.xlsx

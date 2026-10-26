@@ -1,0 +1,7 @@
+# W4 起逐步启用；W6 再加 langchain / langgraph
+requests
+httpx
+python-dotenv
+# langchain
+# langchain-openai
+# langgraph
