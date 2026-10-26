@@ -36,3 +36,8 @@ uv pip install --python .venv/Scripts/python.exe -r requirements.txt
 
 - `docs/` — 学习日志与每周复盘
 - `week1-git-basics/` … `week7-langgraph-agent/` — 每周代码与说明
+
+## 学习进度
+
+- [x] W1 任务1：GitHub 仓库创建与首次推送（2026-10-26）
+- [ ] 后续任务更新中...
