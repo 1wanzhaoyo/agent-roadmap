@@ -40,4 +40,5 @@ uv pip install --python .venv/Scripts/python.exe -r requirements.txt
 ## 学习进度
 
 - [x] W1 任务1：GitHub 仓库创建与首次推送（2026-10-26）
+- [x] W1 任务3：分支→PR→合并流程练习（2026-10-26）
 - [ ] 后续任务更新中...
